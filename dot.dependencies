@@ -4,7 +4,7 @@
     "target_path": "device/pantech/msm8974-common"
   },
  {
-   "repository": "android_vendor_pantech",
+   "repository": "proprietary_vendor_pantech",
    "target_path": "vendor/pantech"
  },
  {
